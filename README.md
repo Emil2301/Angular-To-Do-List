@@ -19,7 +19,7 @@ Project is created with:
 	
 ## Setup
 To run this project type in your web browser this adress: 
-https://emil2301.github.io/Lech-Poznan/
+https://emil2301.github.io/Angular-To-Do-List/
 
 ## Inspiration
 I made this application with inspiration from youtube tutorial 'Kurs Angular Dla Każdego' made by Zacznij Programować.
