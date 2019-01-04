@@ -1,0 +1,6 @@
+<p>Wykonanych zadań: {{tasksDone.length}}</p>
+<ul class="list-group">
+  <li *ngFor="let task of tasksDone; let odd = odd" [ngClass]="{'odd-li': odd}" class="list-group-item">
+    {{task}}
+  </li>
+</ul>
